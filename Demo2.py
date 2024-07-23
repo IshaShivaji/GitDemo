@@ -2,6 +2,10 @@
 values = [1, 2, "rahul", 4, 5]
 # List is data type that allows multiple values and can be different data types
 
+# started in 2024 july again
+# lets learn git and azure 
+
+
 print(values[0])  # 1
 
 print(values[3])  # 4
